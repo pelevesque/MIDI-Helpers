@@ -1,0 +1,28 @@
+{
+    "auth": "zef:pelevesque",
+    "authors": [
+        "Pierre-Emmanuel Lévesque <pierre.e.levesque@gmail.com>"
+    ],
+    "build-depends": [
+    ],
+    "depends": [
+    ],
+    "description": "A Raku module to help with MIDI.",
+    "license": "MIT",
+    "name": "MIDI::Helpers",
+    "provides": {
+        "MIDI::Helpers": "lib/MIDI/Helpers.rakumod"
+    },
+    "raku": "6.d",
+    "source-url": "git://github.com/pelevesque/MIDI-Helpers.git",
+    "tags": [ # same as MIDI::Make??
+        "MIDI",
+        "helpers",
+        "sequencer",
+        "composition"
+    ],
+    "test-depends": [
+        "Test::Selector"
+    ],
+    "version": "0.0.0"
+}

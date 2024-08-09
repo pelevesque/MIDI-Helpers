@@ -1,0 +1,8 @@
+Revision history for MIDI::Helpers
+
+0.1.0
+
+    - d2v
+    - m2p, m2f, m2n
+    - p2m, p2f, p2n
+    - n2m, n2p, n2f
