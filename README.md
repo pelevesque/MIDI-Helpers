@@ -24,11 +24,7 @@ use MIDI::Helpers;
 
 ## Usage
 
-
-
-
-
-
 ## License
+
 MIT\
 copyright 2024 Pierre-Emmanuel Lévesque
